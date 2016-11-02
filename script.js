@@ -11,7 +11,7 @@ var item2={
 var item3={
   name: "pineapple-shaped pen",
   price: 12.99,
-}
+};
 
 var shoppingList=[item1, item2, item3];
 
