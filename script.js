@@ -45,6 +45,6 @@ for (var i=0; i<shoppingList.length; i++) {
 shoppingList.forEach(function(itemDetails){
   console.log(itemDetails.name+", $"+itemDetails.price);
   total+=itemDetails.price;
-})
+});
 
 console.log("Your total is: $" +total);
