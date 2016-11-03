@@ -1,3 +1,8 @@
+var item0={
+  name: "apple",
+  price: 1.99,
+};
+
 var item1={
   name: "pineapple",
   price: 7.49,
