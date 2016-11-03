@@ -18,7 +18,7 @@ var item3={
   price: 12.99,
 };
 
-var shoppingList=[item1, item2, item3];
+var shoppingList=[item0, item1, item2, item3];
 
 var total=0;
 
